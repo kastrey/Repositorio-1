@@ -28,7 +28,7 @@
 
 body
 {
-    background: url('../images/yellow_background.png');
+    background: url('../images/green_background.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
@@ -228,7 +228,7 @@ aside img
 
 footer
 {
-    background:  url('../images/top.png') no-repeat top center, url('../images/line.png') repeat-x top, url('../images/shadow.png') repeat-x top;
+    background:  url('../images/top.png') no-repeat top center, url('../images/line.png') repeat-x top, url('../images/shadow2.png') repeat-x top;
     padding-top: 25px;
 }
 
